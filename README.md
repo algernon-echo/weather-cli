@@ -23,27 +23,3 @@ Support variable unit system, including standard, metric and imperial (metric by
 本项目的实现思路：本人从0开始。首先让grok生成了项目框架和具体实现的代码（代码可以在references文件夹中找到，含有我的批注）。然后我通过查资料学习，弄明白了项目的架构，并学习了所用到的工具包。脚本本身思路很简单，我需要学习的是如何使用合适的工具和方法把它实现。在学习完成后，我对grok的代码做出了一些改进，比如修正了单位输出不跟随单位变化的问题。最后，我在chatGPT的引导下学习如何把整个项目上传至Git和GitHub，包括如何设置gitignore文件。整个过程就像有一位熟练的老师父带领我完成，很多细节也能提示到。我相信整个计划结束，我收获到不仅仅是代码能力，也有一份新时代下如何通过AI快速学习编程的思路，以及具有恒久和普遍价值的反思日记。
 
 为什么本项目不是抄作业：伟大的实现都是从模仿开始。既然这只是一个为了让我练习语法的markdown文档，我就不在此多赘述。相关通过AI学习的议题，我将在计划结束后统一撰文论述。这是一个一边实践，一边反思的过程。
-
-
-## MIT License
-
-Copyright (c) 2025 algernon-echo
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights 
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
-copies of the Software, and to permit persons to whom the Software is 
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all 
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFTWARE.
-
