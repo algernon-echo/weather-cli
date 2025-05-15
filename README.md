@@ -13,7 +13,7 @@ Support variable unit system, including standard, metric and imperial (metric by
 `pip install requests`  
 `pip install python_dotenv`   
 ```
-接下来，来到open weather的官网，注册即可获得API（https://openweathermap.org）。把API放进环境文件里。  
+接下来，来到open weather的官网，注册即可获得API（https://openweathermap.org ）。把API放进环境文件里。  
 
 ## 思路 Implementation Journey
 这是我Coding计划的第一个项目。对于Coding计划的描述，可以等本阶段结束后在本人git主页找到。
