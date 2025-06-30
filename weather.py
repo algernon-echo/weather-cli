@@ -52,7 +52,7 @@ def main():
     #set up argument parser
     parser = argparse.ArgumentParser(description="Command-line weather tool")
     parser.add_argument("city", help="Name of the city you want to get weather for")
-    parser.add_argument("-u", "--units", choices=["standard", "metric", "imperial"], default="metric", help="Unit system")
+    parser.add_argument("-u", "--units", choices=["standard", "metric", "imperial"], default="metric", help="Unit system (standard: metric)")
     args = parser.parse_args()
 
     weather, error = get_weather (api_key, args.city, args.units)
