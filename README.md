@@ -1,4 +1,4 @@
-# 命令行天气查询 CLI weather tool 
+# CLI weather tool 命令行天气查询
 - 输入城市名获取天气。  
 Type in city name and get its weather.
 - 支持多单位系统，包括开尔文（K）、摄氏度（˚C）和华氏度（˚F），默认为摄氏度。  
@@ -15,7 +15,7 @@ Support variable unit system, including standard, metric and imperial (metric by
 ```
 接下来，来到open weather的官网，注册即可获得API（https://openweathermap.org ）。把API放进环境文件里。  
 
-## 思路 Implementation Journey
+## 笔记 Notes
 这是我Coding计划的第一个项目。对于Coding计划的描述，可以等本阶段结束后在本人git主页找到。
 
 本项目的目的在于，通过一个有趣的实现，帮助我从纯粹的做题来到现实的代码世界，用Coding的方式做出实际能用的东西。此工具脚本的思路很简单，因此我可以把重心放在“如何像模像样写出一个能用的工具，并使用git，然后提交GitHub”上。我需要学习考虑如何让别人明白我的代码，代码的架构，如何设置环境变量，以及如何保护自己的信息和处理错误。这才是本项目真正的挑战（challenge）。
